@@ -109,10 +109,25 @@ Advanced Deep Learning · LLM Applications · LangChain & RAG Systems · Cloud &
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif">
 </div>
 
+## 📊 Project Portfolio Snapshot
+
+A quick data view of past work — the kind of summary table a recruiter can scan in 10 seconds.
+
+| Project | Domain | Type | Core Tools | Status |
+|---|---|---|---|---|
+| Netflix Analytics Dashboard | Data Analytics | BI Dashboard | Power BI, SQL, Excel | ✅ Complete |
+| Heart Disease Prediction | Data Analytics + ML | Predictive Model | Python, SQL, Scikit-Learn, XGBoost | ✅ Complete |
+| AgroDetect AI | Computer Vision / Deep Learning | Deployed App | Python, TensorFlow, CNN, Streamlit | ✅ Complete |
+| OrganNova | Full-Stack Web | E-Commerce Platform | React, Firebase, Tailwind CSS | ✅ Complete |
+
+> 📌 *This table is the fastest place to update as you ship new work — add a row per project so your GitHub activity below always has matching, explainable context.*
+
+---
+
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -125,6 +140,8 @@ Advanced Deep Learning · LLM Applications · LangChain & RAG Systems · Cloud &
 [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajanth1611&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </p>
+
+> 💬 *Together with the table above, this shows recruiters both the "what" (real, finished projects) and the "how active" (consistent, ongoing GitHub activity) — the combination is what makes a profile credible instead of just decorative.*
 
 ---
 
