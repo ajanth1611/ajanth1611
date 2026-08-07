@@ -128,7 +128,7 @@ A quick data view of past work — the kind of summary table a recruiter can sca
 
 <p align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 <p align="center">
