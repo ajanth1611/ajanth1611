@@ -1,159 +1,254 @@
-<h1 align="center">Hi 👋, I'm Kulkarni Ajanth Rao</h1>
-<h3 align="center">AI & Machine Learning Enthusiast | Data Analytics | Generative AI | Computer Science Student</h3>
+<div align="center">
 
-<p align="center">
-Building intelligent solutions using AI, Machine Learning, Data Analytics, and Full-Stack Development.
+# 👋 Hi, I'm Kulkarni Ajanth Rao
+
+### 🚀 AI Engineer Aspirant | Machine Learning | Data Analytics | Generative AI
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Artificial+Intelligence;Machine+Learning;Generative+AI;Data+Analytics;Python+Developer;Always+Learning+🚀" />
+
+<p>
+<a href="https://github.com/ajanth1611"><img src="https://img.shields.io/github/followers/ajanth1611?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/ajanth1611"><img src="https://img.shields.io/github/stars/ajanth1611?style=for-the-badge"></a>
+<img src="https://komarev.com/ghpvc/?username=ajanth1611&style=for-the-badge&color=blue" />
 </p>
+
+</div>
 
 ---
 
 # 💫 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, Data Science, and Generative AI.
+🤖 Passionate about building intelligent systems using **Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, and Generative AI**.
 
-📊 Skilled in transforming raw data into meaningful business insights using Python, SQL, Excel, Power BI, and Machine Learning.
+💡 I enjoy solving real-world problems through data-driven solutions and continuously learning modern AI technologies.
 
-💡 Currently focused on:
-- Machine Learning & Deep Learning
-- Large Language Models (LLMs)
-- Generative AI
-- Data Analytics & Visualization
-- Building AI-powered applications
+🚀 **Career Goal**
 
-🚀 Career Goal:
-Become an AI Engineer while mastering Data Science, Generative AI, and building impactful real-world products.
+To become a highly skilled **AI Engineer**, developing scalable AI applications that create meaningful impact.
 
 ---
 
-## 🚀 Current Focus
+# 🌱 Currently Learning
 
-- 🌱 Learning Advanced Machine Learning
-- 🤖 Exploring Generative AI & LLMs
-- 📊 Building Data Analytics Dashboards
-- 🧠 Solving DSA & SQL Problems
-- 📚 Preparing for GATE CSE
-
----
-
-## 💻 Tech Stack
-
-### Programming
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+- 🧠 Advanced Machine Learning
+- 🤖 Deep Learning
+- 💬 Large Language Models (LLMs)
+- ⚡ Generative AI
+- 🔗 LangChain
+- 📚 RAG Applications
+- ☁️ Cloud & MLOps
+- 📊 Advanced Data Analytics
+- 💻 Data Structures & Algorithms
+- 🎯 GATE CSE Preparation
 
 ---
 
-### Data Analytics
+# 🚀 Featured Projects
 
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+## 🌱 AgroDetect AI
+AI-powered Plant Disease Detection using Deep Learning.
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
+**Tech Stack**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy)
-
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+Python • TensorFlow • CNN • Streamlit • Computer Vision
 
 ---
 
-### Machine Learning
+## ❤️ Heart Disease Prediction
 
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+Machine Learning model using multiple supervised learning algorithms.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
+**Tech Stack**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch)
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+Python • Scikit-Learn • XGBoost • Streamlit • Pandas
 
 ---
 
-### Web Development
+## 🛒 OrganNova
 
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
+Organic Vegetable E-Commerce Platform.
 
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
+**Tech Stack**
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
+React • Firebase • Tailwind CSS • JavaScript
 
 ---
 
-## 🚀 Featured Projects
+## 📊 Netflix Analytics Dashboard
 
-### 🌱 AgroDetect AI
-AI-powered Plant Disease Detection System using Deep Learning.
+Interactive business dashboard built using Power BI.
 
-**Tech:** Python • TensorFlow • CNN • Streamlit
+**Tech Stack**
 
----
-
-### ❤️ Heart Disease Prediction
-
-Machine Learning application predicting heart disease using multiple classification models.
-
-**Tech:** Python • Scikit-Learn • XGBoost • Streamlit
+Power BI • SQL • Excel • Data Visualization
 
 ---
 
-### 🛒 OrganNova
+# 💻 Tech Stack
 
-Modern Organic Vegetable E-Commerce Platform.
+## Programming
 
-**Tech:** React • Firebase • Tailwind CSS
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css" />
+</p>
 
----
+## AI & Machine Learning
 
-### 📊 Netflix Analytics Dashboard
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>
 
-Interactive Power BI Dashboard for Netflix content analysis.
+<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
 
-**Tech:** Power BI • SQL • Excel
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
 
----
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 
-## 📈 GitHub Stats
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 
-![](https://github-readme-stats.vercel.app/api?username=ajanth1611&theme=tokyonight&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&theme=tokyonight)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=ajanth1611&theme=onedark&margin-w=10)
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
 
 ---
 
-## 🌐 Connect With Me
+## Database
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-LINK)
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ajanth1611)
-
-[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
 
 ---
 
-## 💡 Quote
+## Data Analytics
 
-> "Learning never stops. Every project is one step closer to building intelligent systems."
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 ---
+
+## Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,firebase,tailwind,vite" />
+</p>
+
+---
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+</p>
+
+---
+
+# 📈 GitHub Analytics
 
 <p align="center">
-⭐ Thanks for visiting my profile! ⭐
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ajanth1611&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=ajanth1611&theme=algolia&no-frame=true&row=1&column=7"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Python
+- ✅ Build AI Projects
+- 🔄 Master Deep Learning
+- 🔄 Build LLM Applications
+- 🔄 Learn LangChain
+- 🔄 Build RAG Systems
+- 🔄 Contribute to Open Source
+- 🔄 Participate in Kaggle Competitions
+- 🔄 Publish AI Projects
+- 🔄 Crack GATE CSE
+- 🔄 Land an AI Internship
+
+---
+
+# 📚 Currently Exploring
+
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Data Analytics
+- Computer Vision
+- Natural Language Processing
+- Generative AI
+- AI Agents
+- MLOps
+- Cloud Computing
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/kulkarni-ajanth-rao-b35243356">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="mailto:bhavanikulkarni24@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://github.com/ajanth1611">
+<img src="https://skillicons.dev/icons?i=github" width="50"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"The future belongs to those who build intelligent systems, not just use them."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile! ⭐
+
+**If you like my projects, consider giving them a ⭐**
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
