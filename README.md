@@ -127,7 +127,7 @@ A quick data view of past work — the kind of summary table a recruiter can sca
 ## 📈 GitHub Analytics
 
 <p align="center">
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
 <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
