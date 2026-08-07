@@ -71,7 +71,7 @@ Intelligent stock price prediction engine combining deep learning and financial 
 - **Model Performance:** Achieved ~85% directional accuracy on test set; deployed with real-time inference
 - **Deployment:** Interactive Streamlit dashboard with live predictions, portfolio tracking, and risk metrics
 - **Stack:** Python, TensorFlow/Keras, Pandas, NumPy, Scikit-Learn, Streamlit, yfinance, SQL
-- 🔗 [View Dashboard](#) · [GitHub Repo](https://github.com/ajanth1611) · [Live Demo](#)
+- 🔗 [View Dashboard](#) · [GitHub Repo](https://github.com/ajanth1611/stock_predict_ml) · [Live Demo](https://stocktrend-ai.streamlit.app/)
 
 **Key Takeaway:** End-to-end ML pipeline from data ingestion to production deployment with real-time analytics.
 
@@ -84,7 +84,8 @@ Interactive Power BI dashboard revealing content trends, viewership patterns, an
 - **Visuals:** Built 15+ interactive charts (drill-downs by genre, country, release year, IMDB score clusters)
 - **Insights:** Identified top-performing content categories, regional preferences, and release timing patterns
 - **Stack:** Power BI, SQL (MySQL), Excel, Data Modeling, DAX formulas
-- 🔗 [View Dashboard](#) · [GitHub Repo](https://github.com/ajanth1611)
+- 🔗 [View Dashboard](<img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/9d420516-857c-4a46-a836-9429736497da" />
+) · [GitHub Repo](https://github.com/ajanth1611/netflix_dashboard)
 
 **Key Takeaway:** Real-world BI project showcasing data cleaning, visualization, and business intelligence.
 
@@ -98,7 +99,7 @@ Data-driven clinical model for early detection and risk stratification of heart 
 - **Evaluation:** ROC-AUC 0.92, Precision 0.89, Recall 0.87 — selected XGBoost as best performer
 - **Deployment:** Built interactive Streamlit app for real-time risk prediction by healthcare professionals
 - **Stack:** Python, Pandas, Scikit-Learn, XGBoost, SQL, Streamlit, Matplotlib/Seaborn
-- 🔗 [Live Demo](#) · [GitHub Repo](https://github.com/ajanth1611)
+-  · [GitHub Repo](https://github.com/ajanth1611/heart-disease)
 
 **Key Takeaway:** Production ML workflow: data preparation → model selection → evaluation → deployment.
 
@@ -111,7 +112,7 @@ Deep learning system for automated plant disease detection to help farmers reduc
 - **Features:** Real-time image upload, instant disease diagnosis, severity scoring, remedy suggestions
 - **Deployment:** Streamlit web app with GPU support; optimized inference time < 500ms
 - **Stack:** Python, TensorFlow, CNN, OpenCV, Streamlit, NumPy, PIL
-- 🔗 [Live Demo](#) · [GitHub Repo](https://github.com/ajanth1611)
+-  · [GitHub Repo](https://github.com/ajanth1611/argodetect)
 
 **Key Takeaway:** End-to-end deep learning project from training to production web deployment.
 
@@ -124,7 +125,7 @@ Modern organic produce e-commerce application with responsive design and real-ti
 - **Backend:** Firebase authentication, Firestore real-time database, cloud storage for product images
 - **Features:** User profiles, order history, wishlist, payment integration, admin dashboard
 - **Stack:** React, Tailwind CSS, Firebase, JavaScript, HTML/CSS
-- 🔗 [Live Demo](#) · [GitHub Repo](https://github.com/ajanth1611)
+- 🔗 [https://organovaapp.vercel.app/](#) · [GitHub Repo](https://github.com/ajanth1611/organ)
 
 **Key Takeaway:** Full-stack development skills combining frontend UI/UX with backend database management.
 
