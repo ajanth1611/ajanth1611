@@ -1,12 +1,17 @@
 # 👋 Hi, I'm Ajanth Rao
 
+### 💻 Computer Science Student | Data Analytics | AI/ML | Software Development
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data+%26+AI+Projects" alt="Typing Animation">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=667EEA&center=true&vCenter=true&width=650&lines=Data+Analytics+%7C+AI+%2F+ML+Enthusiast;Building+Projects+with+Python+%26+SQL;Turning+Data+into+Meaningful+Insights;Learning+%E2%86%92+Building+%E2%86%92+Improving" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/ajanth1611">
-    <img src="https://komarev.com/ghpvc/?username=ajanth1611&label=Profile%20Views&style=flat" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=ajanth1611&label=Profile%20Views&color=667eea&style=for-the-badge" alt="Profile Views"/>
+  </a>
+  <a href="https://github.com/ajanth1611?tab=followers">
+    <img src="https://img.shields.io/github/followers/ajanth1611?style=for-the-badge&color=667eea&labelColor=1a1b27" alt="GitHub Followers"/>
   </a>
 </p>
 
@@ -14,231 +19,225 @@
 
 ## 🧑‍💻 About Me
 
-🎓 Computer Science Student passionate about **Data, AI and Software Development**.
+🎓 Computer Science student passionate about **Data Analytics, Artificial Intelligence and Software Development**.
 
-I enjoy transforming raw data into meaningful insights and building practical applications using **Python, SQL, Machine Learning and modern development technologies**.
+I enjoy working with data, building machine learning solutions, developing practical applications, and turning real-world problems into technology-driven solutions.
 
-### 🔭 Currently Working On
-
-- 📊 Data Analytics & Business Intelligence
-- 🐍 Advanced Python
-- 🗄️ SQL & Database Management
-- 📈 Power BI & Data Visualization
-- 🤖 Machine Learning & Deep Learning
-- 🌱 Computer Vision
-- ✨ Generative AI
-- ☁️ Cloud & Deployment
+* 📊 Interested in **Data Analytics & Business Intelligence**
+* 🤖 Building projects in **Machine Learning & AI**
+* 🧠 Exploring **Deep Learning, Computer Vision & Generative AI**
+* 💻 Developing applications with **Python, JavaScript & React**
+* 🗄️ Working with **SQL & databases**
+* 📈 Creating interactive dashboards using **Power BI**
+* ☁️ Exploring **Cloud, Deployment & MLOps**
+* 🚀 Open to **Internships & Entry-Level Opportunities**
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js" />
-</p>
-
-**Python • SQL • Java • JavaScript • Pandas • NumPy**
-
-### Data Analytics
+### 👨‍💻 Programming
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres" />
+  <img src="https://skillicons.dev/icons?i=python,java,js" />
 </p>
 
-**Power BI • Excel • SQL • Matplotlib • Data Visualization**
-
-### Machine Learning & AI
+### 📊 Data & Analytics
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://skillicons.dev/icons?i=pandas,numpy" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
 
-**Scikit-learn • XGBoost • TensorFlow • PyTorch • OpenCV**
-
-### Web Development
+### 🤖 AI / Machine Learning
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,firebase" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-189FDD?style=for-the-badge&logo=xgboost&logoColor=white" />
 </p>
 
-**HTML • CSS • JavaScript • React • Node.js • Tailwind CSS • Firebase**
-
-### Tools
+### 🌐 Web Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,streamlit,vercel" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,tailwind,firebase" />
 </p>
 
-**Git • GitHub • VS Code • Streamlit • Vercel**
+### ⚙️ Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 📊 Netflix Data Analytics Dashboard
+<table>
+<tr>
+<td width="50%">
+
+### 📊 Netflix Data Analytics
 
 **Power BI • SQL • Python • Excel**
 
-An interactive analytics project focused on understanding Netflix content and extracting useful business insights.
+Interactive analytics project focused on exploring Netflix content and extracting meaningful business insights.
 
-### Key Features
+**Highlights**
 
-- Data cleaning and preprocessing
-- SQL analysis
-- KPI development
-- Power BI dashboard
-- Data visualization
-- Business insights
+* Data cleaning & preprocessing
+* SQL-based analysis
+* KPI development
+* Interactive Power BI dashboard
+* Business insights
+* Data visualization
 
-🔗 **Repository:**  
-https://github.com/ajanth1611/netflix_dashboard
-<p>
-     <img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/e2be1b64-251f-45e7-8d11-697ee5d7d0b9" />
+🔗 [View Repository](https://github.com/ajanth1611/netflix_dashboard)
 
-</p>
+</td>
 
----
+<td width="50%">
 
-## ❤️ Heart Disease Prediction
+### ❤️ Heart Disease Prediction
 
-**Python • Pandas • Scikit-learn • XGBoost • Streamlit**
+**Python • Scikit-learn • XGBoost • Streamlit**
 
-A machine learning classification project for predicting the likelihood of heart disease.
+Machine learning classification system for predicting the likelihood of heart disease.
 
-### Key Features
+**Highlights**
 
-- Data preprocessing
-- Exploratory Data Analysis
-- Multiple ML algorithms
-- Model comparison
-- Feature analysis
-- Model evaluation
-- Streamlit application
+* Data preprocessing
+* Exploratory Data Analysis
+* Multiple ML algorithms
+* Model comparison
+* Feature analysis
+* Model evaluation
+* Streamlit application
 
-🔗 **Repository:**  
-https://github.com/ajanth1611/heart-disease
-<p>
- <img width="950" height="451" alt="Screenshot 2026-07-29 082543" src="https://github.com/user-attachments/assets/f196682e-f3fb-4732-84d4-9ff2bf0ab8da" />
+🔗 [View Repository](https://github.com/ajanth1611/heart-disease)
 
+</td>
+</tr>
 
-</p>
+<tr>
+<td width="50%">
 
----
+### 🌱 AgroDetect AI
 
-## 🌱 AgroDetect AI
+**Python • Deep Learning • Computer Vision**
 
-**Python • Deep Learning • Computer Vision • Streamlit**
+AI-based plant disease classification system using leaf images.
 
-A computer vision project for plant disease classification using leaf images.
+**Highlights**
 
-### Key Features
+* Image preprocessing
+* Computer vision
+* Deep learning
+* Image classification
+* Model evaluation
+* Interactive application
 
-- Image preprocessing
-- Deep learning
-- Image classification
-- Model evaluation
-- Streamlit interface
+🔗 [View Profile & Projects](https://github.com/ajanth1611)
 
-🔗 **Repository:**  
-https://github.com/ajanth1611
+</td>
 
----
+<td width="50%">
 
-## 🛒 OrganNova
+### 🛒 OrganNova
 
 **React • JavaScript • Tailwind CSS • Firebase**
 
-An e-commerce application focused on organic products.
+Responsive e-commerce platform designed for browsing and purchasing organic products.
 
-### Key Features
+**Highlights**
 
-- Responsive UI
-- Product browsing
-- Shopping cart
-- Firebase integration
-- Authentication
-- Database functionality
+* Responsive UI
+* Product browsing
+* Shopping cart
+* Authentication
+* Firebase integration
+* Database functionality
 
-🔗 **Repository:**  
-https://github.com/ajanth1611/organ
-🔗**live link**
-https://organovaapp.vercel.app/
+🔗 [Repository](https://github.com/ajanth1611/organ)
 
-<p>
-  <img width="955" height="443" alt="Screenshot 2026-08-08 090420" src="https://github.com/user-attachments/assets/f5e62a4a-1fdc-4231-be0b-8fd98d3b578b" />
-  <img width="952" height="442" alt="Screenshot 2026-08-08 090356" src="https://github.com/user-attachments/assets/1db9a8b5-b02e-4dd4-a8c0-06a527528248" />
+🌐 [Live Demo](https://organovaapp.vercel.app/)
 
+</td>
+</tr>
 
-</p>
+<tr>
+<td width="50%">
 
-
----
-
-## 📈 Stock Market Analysis
+### 📈 StockTrend AI
 
 **Python • Pandas • NumPy • Machine Learning**
 
-A project focused on analyzing historical stock-market data using data analysis and machine learning techniques.
+Stock-market analysis project focused on identifying trends and experimenting with machine learning techniques.
 
-### Key Features
+**Highlights**
 
-- Market-data analysis
-- Feature engineering
-- Technical indicators
-- Trend analysis
-- Data visualization
-- Machine learning experimentation
+* Market-data analysis
+* Feature engineering
+* Technical indicators
+* Trend analysis
+* Data visualization
+* ML experimentation
 
-🔗 **Repository:**  
-https://github.com/ajanth1611/stock_predict_ml
-🔗 **live link:**
-https://stocktrend-ai.streamlit.app/
-<p> 
-    <img width="946" height="443" alt="Screenshot 2026-07-29 081139" src="https://github.com/user-attachments/assets/3bc01b14-d4bd-4a10-a30e-89ebcae3db73" />
+🔗 [Repository](https://github.com/ajanth1611/stock_predict_ml)
 
+🌐 [Live Demo](https://stocktrend-ai.streamlit.app/)
 
-</p>
+</td>
+
+<td width="50%">
+
+### 📊 More Projects
+
+I continuously build and experiment with projects across:
+
+* Data Analytics
+* Machine Learning
+* AI
+* Computer Vision
+* Web Development
+* Business Intelligence
+
+🔗 [Explore All Repositories](https://github.com/ajanth1611?tab=repositories)
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 🧠 Currently Learning
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=800&center=true&vCenter=true&width=600&lines=Advanced+SQL;Statistics+for+Data+Science;Machine+Learning;Deep+Learning;Generative+AI;MLOps+%26+Cloud" alt="Learning Animation">
-</p>
+```text
+Advanced SQL
+      ↓
+Data Analytics & Business Intelligence
+      ↓
+Machine Learning
+      ↓
+Deep Learning & Computer Vision
+      ↓
+Generative AI
+      ↓
+Cloud & MLOps
+```
+
+I'm focusing on building **end-to-end projects** rather than only learning theory.
 
 ---
 
-# 📊 GitHub Statistics
-
-<!-- GitHub Analytics -->
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb"
-    width="48%"
-  />
-  
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=ajanth1611&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph"
-    width="100%"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajanth1611&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajanth1611&theme=tokyonight&hide_border=true"
-    width="48%"
-  />
+  <img src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
 ---
@@ -246,9 +245,7 @@ https://stocktrend-ai.streamlit.app/
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=ajanth1611&hide_border=true">
-
+  <img src="https://streak-stats.demolab.com?user=ajanth1611&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
@@ -256,51 +253,53 @@ https://stocktrend-ai.streamlit.app/
 # 🐍 Contribution Activity
 
 <p align="center">
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
-
+  <img src="https://raw.githubusercontent.com/ajanth1611/ajanth1611/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
 </p>
 
 ---
 
 # 🎯 2026 Goals
 
-- 📌 Improve Advanced SQL
-- 📌 Master Data Analytics
-- 📌 Build Advanced Power BI Projects
-- 📌 Strengthen Machine Learning
-- 📌 Learn Deep Learning
-- 📌 Build Generative AI Projects
-- 📌 Learn Cloud & MLOps
-- 📌 Contribute to Open Source
-- 📌 Secure a Data/AI Internship or Entry-Level Role
+* [ ] 📌 Master Advanced SQL
+* [ ] 📌 Build advanced Power BI dashboards
+* [ ] 📌 Strengthen Machine Learning
+* [ ] 📌 Learn Deep Learning
+* [ ] 📌 Build Generative AI applications
+* [ ] 📌 Explore Cloud & MLOps
+* [ ] 📌 Contribute to Open Source
+* [ ] 📌 Build production-ready projects
+* [ ] 📌 Secure a Data / AI internship or entry-level role
 
 ---
 
 # 💼 Open to Opportunities
 
-I'm interested in opportunities related to:
+I'm interested in opportunities involving:
 
-**Data Analyst • Business Analyst • Data Science • Machine Learning • AI/GenAI • Power BI**
+**Data Analytics • Business Analytics • Data Science • Machine Learning • AI/GenAI • Power BI**
 
-I'm looking for opportunities where I can solve real-world problems, work with data, build intelligent applications, and continuously improve my technical skills.
+I'm particularly interested in environments where I can:
+
+> **Analyze → Build → Solve → Learn → Improve**
+
+and contribute to real-world technical problems.
 
 ---
 
-# 📫 Connect With Me
+# 🤝 Let's Connect
 
 <p align="center">
 
 <a href="https://github.com/ajanth1611">
-<img src="https://img.shields.io/badge/GitHub-ajanth1611-181717?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/GitHub-ajanth1611-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/kulkarni-ajanth-rao-b35243356/">
-<img src="https://img.shields.io/badge/LinkedIn-Kulkarni%20Ajanth%20Rao-0A66C2?style=for-the-badge&logo=linkedin">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
 </a>
 
 <a href="mailto:bhavanikulkarni24@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </p>
@@ -309,8 +308,10 @@ I'm looking for opportunities where I can solve real-world problems, work with d
 
 <p align="center">
 
-### 💡 Learn → Build → Analyze → Improve → Repeat
+### 💡 Learn → Build → Analyze → Improve → Repeat 🚀
 
-**Thanks for visiting my profile! 🚀**
+**Thanks for visiting my profile!**
+
+⭐ Feel free to explore my repositories and projects.
 
 </p>
