@@ -194,10 +194,7 @@ https://github.com/ajanth1611
     src="https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb"
     width="48%"
   />
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb"
-    width="48%"
-  />
+ 
 </p>
 
 <p align="center">
