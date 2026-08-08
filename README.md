@@ -1,3 +1,4 @@
+<div align="center"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,50:764ba2,100:f093fb&height=250&section=header&text=Kulkarni%20Ajanth%20Rao&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20AI%2FML%20%7C%20GenAI%20Specialist&descAlignY=60&descSize=20&fontColor=ffffff"/> <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&duration=3000&pause=1000&color=667eea&center=true&vCenter=true&width=800&lines=Building+Data+Pipelines+%26+AI+Solutions;From+Raw+Data+to+Production+Dashboards;ETL+%7C+Analytics+%7C+ML+%7C+GenAI;Turning+Insights+into+Impact" /> <br/>
 # 👋 Hi, I'm Ajanth Rao
 
 ### 💻 Computer Science Student | Data Analytics | AI/ML | Software Development
