@@ -1,4 +1,4 @@
-<img width="955" height="443" alt="image" src="https://github.com/user-attachments/assets/46bc0f77-7088-4c89-8e1a-64e83300c541" /># 👋 Hi, I'm Ajanth Rao
+# 👋 Hi, I'm Ajanth Rao
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data+%26+AI+Projects" alt="Typing Animation">
