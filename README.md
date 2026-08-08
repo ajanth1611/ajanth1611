@@ -120,7 +120,9 @@ A machine learning classification project for predicting the likelihood of heart
 🔗 **Repository:**  
 https://github.com/ajanth1611/heart-disease
 <p>
-    <img src="<img width="950" height="451" alt="Screenshot 2026-07-29 082543" src="https://github.com/user-attachments/assets/d8bd5a53-00e8-46ae-a9de-f5d076a9a658" />
+  <img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/e2be1b64-251f-45e7-8d11-697ee5d7d0b9" />
+" />
+" />
 
 </p>
 
