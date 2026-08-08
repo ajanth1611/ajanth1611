@@ -76,123 +76,126 @@ I enjoy working with data, building machine learning solutions, developing pract
 
 # 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 📊 Netflix Data Analytics
+## 📊 Netflix Data Analytics Dashboard
 
 **Power BI • SQL • Python • Excel**
 
-Interactive analytics project focused on exploring Netflix content and extracting meaningful business insights.
+An interactive analytics project focused on understanding Netflix content and extracting useful business insights.
 
-**Highlights**
+### Key Features
 
-* Data cleaning & preprocessing
-* SQL-based analysis
-* KPI development
-* Interactive Power BI dashboard
-* Business insights
-* Data visualization
+- Data cleaning and preprocessing
+- SQL analysis
+- KPI development
+- Power BI dashboard
+- Data visualization
+- Business insights
 
-🔗 [View Repository](https://github.com/ajanth1611/netflix_dashboard)
+🔗 **Repository:**  
+https://github.com/ajanth1611/netflix_dashboard
+<p>
+  <img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/9b58b78f-7a3e-480e-8e69-92de67419bc9" />
 
-</td>
+</p>
 
-<td width="50%">
+---
 
-### ❤️ Heart Disease Prediction
+## ❤️ Heart Disease Prediction
 
-**Python • Scikit-learn • XGBoost • Streamlit**
+**Python • Pandas • Scikit-learn • XGBoost • Streamlit**
 
-Machine learning classification system for predicting the likelihood of heart disease.
+A machine learning classification project for predicting the likelihood of heart disease.
 
-**Highlights**
+### Key Features
 
-* Data preprocessing
-* Exploratory Data Analysis
-* Multiple ML algorithms
-* Model comparison
-* Feature analysis
-* Model evaluation
-* Streamlit application
+- Data preprocessing
+- Exploratory Data Analysis
+- Multiple ML algorithms
+- Model comparison
+- Feature analysis
+- Model evaluation
+- Streamlit application
 
-🔗 [View Repository](https://github.com/ajanth1611/heart-disease)
+🔗 **Repository:**  
+https://github.com/ajanth1611/heart-disease
+<p>
+  <img width="950" height="451" alt="Screenshot 2026-07-29 082543" src="https://github.com/user-attachments/assets/b459b8e7-791b-4b2a-9419-ddab03201c3d" />
 
-</td>
-</tr>
+</p>
 
-<tr>
-<td width="50%">
+---
 
-### 🌱 AgroDetect AI
+## 🌱 AgroDetect AI
 
-**Python • Deep Learning • Computer Vision**
+**Python • Deep Learning • Computer Vision • Streamlit**
 
-AI-based plant disease classification system using leaf images.
+A computer vision project for plant disease classification using leaf images.
 
-**Highlights**
+### Key Features
 
-* Image preprocessing
-* Computer vision
-* Deep learning
-* Image classification
-* Model evaluation
-* Interactive application
+- Image preprocessing
+- Deep learning
+- Image classification
+- Model evaluation
+- Streamlit interface
 
-🔗 [View Profile & Projects](https://github.com/ajanth1611)
+🔗 **Repository:**  
+https://github.com/ajanth1611/argodetect
 
-</td>
+---
 
-<td width="50%">
-
-### 🛒 OrganNova
+## 🛒 OrganNova
 
 **React • JavaScript • Tailwind CSS • Firebase**
 
-Responsive e-commerce platform designed for browsing and purchasing organic products.
+An e-commerce application focused on organic products.
 
-**Highlights**
+### Key Features
 
-* Responsive UI
-* Product browsing
-* Shopping cart
-* Authentication
-* Firebase integration
-* Database functionality
+- Responsive UI
+- Product browsing
+- Shopping cart
+- Firebase integration
+- Authentication
+- Database functionality
 
-🔗 [Repository](https://github.com/ajanth1611/organ)
+🔗 **Repository:**  
+https://github.com/ajanth1611/organ
+🔗**live link:**
+https://organovaapp.vercel.app/
+<p>
+  <img width="955" height="443" alt="Screenshot 2026-08-08 090420" src="https://github.com/user-attachments/assets/bd80a4b6-5010-4b92-b298-7005bf9eba4a" />
+  <img width="952" height="442" alt="Screenshot 2026-08-08 090356" src="https://github.com/user-attachments/assets/56923724-6b66-4ddb-95b1-e0cc11947be9" />
 
-🌐 [Live Demo](https://organovaapp.vercel.app/)
 
-</td>
-</tr>
+</p>
 
-<tr>
-<td width="50%">
+---
 
-### 📈 StockTrend AI
+## 📈 Stock Market Analysis
 
 **Python • Pandas • NumPy • Machine Learning**
 
-Stock-market analysis project focused on identifying trends and experimenting with machine learning techniques.
+A project focused on analyzing historical stock-market data using data analysis and machine learning techniques.
 
-**Highlights**
+### Key Features
 
-* Market-data analysis
-* Feature engineering
-* Technical indicators
-* Trend analysis
-* Data visualization
-* ML experimentation
+- Market-data analysis
+- Feature engineering
+- Technical indicators
+- Trend analysis
+- Data visualization
+- Machine learning experimentation
 
-🔗 [Repository](https://github.com/ajanth1611/stock_predict_ml)
+🔗 **Repository:**  
+https://github.com/ajanth1611/stock_predict_ml
+🔗**live link:**
+https://stocktrend-ai.streamlit.app/
+<p>
+  <img width="946" height="443" alt="Screenshot 2026-07-29 081139" src="https://github.com/user-attachments/assets/45b06ca2-2327-4bbd-a444-14b690880ca7" />
 
-🌐 [Live Demo](https://stocktrend-ai.streamlit.app/)
+</p>
 
-</td>
-
-<td width="50%">
 
 ### 📊 More Projects
 
@@ -205,7 +208,7 @@ I continuously build and experiment with projects across:
 * Web Development
 * Business Intelligence
 
-🔗 [Explore All Repositories](https://github.com/ajanth1611?tab=repositories)
+🔗 [Explore All Repositories](https://github.com/repos?q=owner:@me)
 
 </td>
 </tr>
