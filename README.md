@@ -236,107 +236,52 @@ I'm focusing on building **end-to-end projects** rather than only learning theor
 
 ---
 
-# 📊 GitHub Analytics
+de_border=true&include_all_commits=true"
+    alt="Ajanth's GitHub Stats"# 📊 GitHub Analytics
 
-## 📊 GitHub Analytics
+📈 GitHub Analytics & Activity
+<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb" width="48%"/> <img src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" width="48%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajanth1611&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" width="100%"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajanth1611&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajanth1611&theme=tokyonight&hide_border=true" width="48%"/> </p>
+🎯 2026 Roadmap
+<div align="center">
+ Master Python, SQL & Data Analytics fundamentals
+ Ship 4+ end-to-end AI/ML/Data projects
+ Hands-on experience with Power BI & Tableau
+ Build a production ETL pipeline with Airflow orchestration
+ Deploy models on cloud (AWS SageMaker / GCP Vertex AI)
+ Earn AWS Solutions Architect / Google Cloud Data Engineer certification
+ Contribute to an open-source data/ML project
+ Crack GATE CSE examination
+ 🎯 GOAL: Land a Data Engineer / Data Analyst internship at a top-tier company
+</div>
+🤝 Let's Collaborate
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&hide_border=true&include_all_commits=true"
-    alt="Ajanth's GitHub Stats"
-  />
-</p>
+I'm actively looking for Data Analyst and Data Engineering internships with opportunities to work on real production data, build scalable pipelines, and make measurable impact. Open to AI/ML-adjacent roles as well.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanth1611&layout=compact&hide_border=true"
-    alt="Most Used Languages"
-  />
-</p>
+🎯 What I'm Looking For:
 
----
+✅ Data-driven companies with real-world problems
+✅ Mentorship and growth opportunities
+✅ Exposure to modern data stack (cloud, orchestration, ML)
+✅ Cross-functional projects with business impact
 
-## 🔥 GitHub Streak
+<div align="center">
+📬 Connect With Me
+<p> <a href="https://www.linkedin.com/in/kulkarni-ajanth-rao-b35243356"><img src="https://skillicons.dev/icons?i=linkedin" width="50" alt="LinkedIn"/></a>&nbsp;&nbsp;&nbsp; <a href="mailto:bhavanikulkarni24@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="50" alt="Gmail"/></a>&nbsp;&nbsp;&nbsp; <a href="https://github.com/ajanth1611"><img src="https://skillicons.dev/icons?i=github" width="50" alt="GitHub"/></a> </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=ajanth1611&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+📧 Email: bhavanikulkarni24@gmail.com
+💼 LinkedIn: Kulkarni Ajanth Rao
+💻 GitHub: @ajanth1611
 
----
+</div>
+<div align="center">
+🌟 Fun Fact
 
-# 🔥 GitHub Streak
+I believe the best data analysis answers a question someone didn't know to ask yet.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ajanth1611&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-</p>
+</div> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:f093fb,50:764ba2,100:667eea&height=150&section=footer&animation=fadeIn"/> <div align="center">
 
----
+Thanks for visiting! 🚀 Let's build something amazing together.
 
-# 🐍 Contribution Activity
+Show Image
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ajanth1611/ajanth1611/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</p>
-
----
-
-# 🎯 2026 Goals
-
-* [ ] 📌 Master Advanced SQL
-* [ ] 📌 Build advanced Power BI dashboards
-* [ ] 📌 Strengthen Machine Learning
-* [ ] 📌 Learn Deep Learning
-* [ ] 📌 Build Generative AI applications
-* [ ] 📌 Explore Cloud & MLOps
-* [ ] 📌 Contribute to Open Source
-* [ ] 📌 Build production-ready projects
-* [ ] 📌 Secure a Data / AI internship or entry-level role
-
----
-
-# 💼 Open to Opportunities
-
-I'm interested in opportunities involving:
-
-**Data Analytics • Business Analytics • Data Science • Machine Learning • AI/GenAI • Power BI**
-
-I'm particularly interested in environments where I can:
-
-> **Analyze → Build → Solve → Learn → Improve**
-
-and contribute to real-world technical problems.
-
----
-
-# 🤝 Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/ajanth1611">
-  <img src="https://img.shields.io/badge/GitHub-ajanth1611-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://www.linkedin.com/in/kulkarni-ajanth-rao-b35243356/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="mailto:bhavanikulkarni24@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-</p>
-
----
-
-<p align="center">
-
-### 💡 Learn → Build → Analyze → Improve → Repeat 🚀
-
-**Thanks for visiting my profile!**
-
-⭐ Feel free to explore my repositories and projects.
-
-</p>
+</div>
