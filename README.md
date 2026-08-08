@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ajanth Rao
+<img width="955" height="443" alt="image" src="https://github.com/user-attachments/assets/46bc0f77-7088-4c89-8e1a-64e83300c541" /># 👋 Hi, I'm Ajanth Rao
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Science+Student;Data+Analytics+%7C+Machine+Learning;Python+%7C+SQL+%7C+Power+BI;Building+Data+%26+AI+Projects" alt="Typing Animation">
@@ -95,7 +95,7 @@ An interactive analytics project focused on understanding Netflix content and ex
 🔗 **Repository:**  
 https://github.com/ajanth1611/netflix_dashboard
 <p>
-    <img src="<img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/3bcf8179-c128-477f-8031-a46dc5a00556" />
+     <img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/e2be1b64-251f-45e7-8d11-697ee5d7d0b9" />
 
 </p>
 
@@ -120,9 +120,8 @@ A machine learning classification project for predicting the likelihood of heart
 🔗 **Repository:**  
 https://github.com/ajanth1611/heart-disease
 <p>
-  <img width="577" height="325" alt="netflix dashboard" src="https://github.com/user-attachments/assets/e2be1b64-251f-45e7-8d11-697ee5d7d0b9" />
-" />
-" />
+ <img width="950" height="451" alt="Screenshot 2026-07-29 082543" src="https://github.com/user-attachments/assets/f196682e-f3fb-4732-84d4-9ff2bf0ab8da" />
+
 
 </p>
 
@@ -163,7 +162,17 @@ An e-commerce application focused on organic products.
 - Database functionality
 
 🔗 **Repository:**  
-https://github.com/ajanth1611/argodetect
+https://github.com/ajanth1611/organ
+🔗**live link**
+https://organovaapp.vercel.app/
+
+<p>
+  <img width="955" height="443" alt="Screenshot 2026-08-08 090420" src="https://github.com/user-attachments/assets/f5e62a4a-1fdc-4231-be0b-8fd98d3b578b" />
+  <img width="952" height="442" alt="Screenshot 2026-08-08 090356" src="https://github.com/user-attachments/assets/1db9a8b5-b02e-4dd4-a8c0-06a527528248" />
+
+
+</p>
+
 
 ---
 
@@ -187,7 +196,8 @@ https://github.com/ajanth1611/stock_predict_ml
 🔗 **live link:**
 https://stocktrend-ai.streamlit.app/
 <p> 
-    <img src="<img width="946" height="443" alt="Screenshot 2026-07-29 081139" src="https://github.com/user-attachments/assets/c135e8cb-a320-4f56-8ebd-0dd0e428a264" />
+    <img width="946" height="443" alt="Screenshot 2026-07-29 081139" src="https://github.com/user-attachments/assets/3bc01b14-d4bd-4a10-a30e-89ebcae3db73" />
+
 
 </p>
 
