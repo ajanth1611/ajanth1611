@@ -187,7 +187,36 @@ https://github.com/ajanth1611
 
 # 📊 GitHub Statistics
 
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb" width="48%"/> <img src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb" width="48%"/> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajanth1611&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph" width="100%"/> </p> <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajanth1611&theme=tokyonight&hide_border=true" width="48%"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajanth1611&theme=tokyonight&hide_border=true" width="48%"/> </p>
+<!-- GitHub Analytics -->
+
+<p align="center">
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=ajanth1611&theme=tokyonight&hide_border=true&stroke=667eea&ring=667eea&fire=f093fb"
+    width="48%"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ajanth1611&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=667eea&icon_color=f093fb"
+    width="48%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=ajanth1611&theme=tokyo-night&hide_border=true&area=true&custom_title=GitHub%20Contribution%20Graph"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajanth1611&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajanth1611&theme=tokyonight&hide_border=true"
+    width="48%"
+  />
+</p>
 
 ---
 
